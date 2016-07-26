@@ -1,1 +1,1 @@
-# training
+# SpringOne Training
